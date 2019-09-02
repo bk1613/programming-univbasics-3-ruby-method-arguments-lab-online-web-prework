@@ -18,6 +18,8 @@ end
 
 introduction("Brian")
 
+introduction_with_language("Brian", "C++")
+
 introduction_with_language_optional("Brian")
 
 
